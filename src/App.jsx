@@ -1,6 +1,6 @@
 import React from "react"
 
-import { Blog, Features, Footer, Header, Products } from "./containers"
+import { Blog, Features, Footer, Header, Products, Technology } from "./containers"
 import { CTA, Navbar } from "./components"
 import './App.css'
 
@@ -13,6 +13,7 @@ function App() {
         <Navbar />
         <Header />
         <Products />
+        <Technology />
       </div>
 
       <Features />
