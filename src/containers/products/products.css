@@ -39,6 +39,7 @@
 @media screen and (max-width: 1700px) {
     .lt__products-product {
         flex-wrap: wrap;
+        justify-content: center;
     }
 
 }
