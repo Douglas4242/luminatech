@@ -16,6 +16,7 @@ a {
 
 .gradient__bg {
     background: linear-gradient(125deg, rgba(3, 0, 55, 1) 16%, rgba(31, 98, 158, 1) 48%, rgba(0, 188, 212, 1) 80%, rgba(0, 255, 59, 1) 100%);
+    padding-bottom: 2rem;
 }
 
 .section__padding {
