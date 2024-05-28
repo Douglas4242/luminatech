@@ -1,7 +1,7 @@
 import React from "react"
 
-import { Blog, Features, Footer, Header } from "./containers"
-import { CTA, Brand, Navbar } from "./components"
+import { Blog, Features, Footer, Header, Products } from "./containers"
+import { CTA, Navbar } from "./components"
 import './App.css'
 
 function App() {
@@ -12,8 +12,9 @@ function App() {
       <div className="gradient__bg">
         <Navbar />
         <Header />
+        <Products />
       </div>
-      <Brand />
+
       <Features />
       <CTA />
       <Blog />

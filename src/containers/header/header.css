@@ -52,6 +52,7 @@
 @media screen and (max-width: 1500px) {
     .lt__header {
         flex-direction: column;
+        padding-bottom: 0px !important;
     }
 
     .lt__header-content {
@@ -59,8 +60,8 @@
     }
 
     .lt__header-image img {
-        width: 50%;
-        height: 50%;
+        width: 70%;
+        height: 70%;
     }
 
 
